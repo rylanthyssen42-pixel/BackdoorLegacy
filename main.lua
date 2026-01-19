@@ -19,7 +19,7 @@ local Labely = Instance.new("TextLabel")
 
 -- Set Properties
 
-ScrnGui.Name = "BackdoorLegacy"
+ScrnGui.Name = "Nuclear Corp Backdoor Panel"
 ScrnGui.Parent = game:GetService('CoreGui')
 ScrnGui.ResetOnSpawn = false
 
